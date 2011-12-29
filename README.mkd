@@ -1,0 +1,9 @@
+mossrc.vim
+==========
+
+Syntax highlighting for [Moss](https://github.com/teneighty/moss) configuration
+files.
+
+Based off the conky syntax file provided by Ciaran McCreesh
+[http://www.vim.org/scripts/script.php?script_id=1367](http://www.vim.org/scripts/script.php?script_id=1367)
+
